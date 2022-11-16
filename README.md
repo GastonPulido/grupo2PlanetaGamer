@@ -13,3 +13,13 @@ Esta oferta la vamos a ajustar teniendo comparativas con otras empresas de nuest
 - Los productos van a contar con ofertas intersantes siempre y cuando la compra sea por primera vez. 
 
 Este proyecto esta integrado por estudiantes de Desarollo de Software con objetivos intereasantes a la hora de ofrecer nuestros servicios.
+
+
+
+## _Nuestra inspiración en referentes del mercado_
+
+- [**Compra Gamer:**](https://compragamer.com/) Elegimos esta tienda virtual debido a que su página web brinda un buen servicio en general, a la hora de buscar productos ya que es fácil de navegar y cada producto presenta información adecuad y a la hora de utilizar el carrito de compras es claro, sencillo pero cumple bien con su función. Presenta una interfaz agradable y entendible para su navegación. Además cuentan con la funcionalidad arma tu pc, la cual permite armar un presupuesto de una computadora con los componentes seleccionados, de una manera rápida y sencilla. Con respecto a sus productos, ofrece una gran variedad y a un buen precio.
+- [**Mega Tecnología:**](https://www.megatecnologia.com.ar/) La página web de esta tienda nos pareció ejemplo debido a su eficiencia a la hora de navegarla, siendo clara y sencilla para buscar productos, tanto componentes, periféricos y también computadoras armadas y presentando cada elemento buena información. Además nos gustó su estética e interfaz que es clara y agradable para ayudar al aspecto que nombramos anteriormente. Destacamos también que apuntan hacia público que juega a video juegos en computadora ya que realizan torneos en donde los clientes pueden anotarse.
+- [**Maldito Hard:**](https://www.malditohard.com.ar/) Elegimos esta tienda física y virtual ya que nos gustó la estética de su página y apunta mucho hacia clientes gamer. Además de funcionar adecuadamente. También presentan variedad de productos de calidad a un precio adecuado.
+- [**UltraBytes:**](https://ultrabytes.com.ar/) Decidimos agregar UltraBytes porque es otro sitio web que apunta mucho a personas relacionadas con el mundo de los videos juegos en computadora, con una página web adecuada en funcionamiento e imagen a los clientes que tiene como objetivo.
+- [**Pccore**:](https://www.pccore.com.ar/) Esta tienda nos atrajo con su ecommerce muy accesible de navegar para todo tipo de público ya que es claro con la información y funcionalidad adecuada. Además presenta la funcionalidad arma tu pc, la cual funciona de manera perfecta y un carrito de compras rápido que se puede visualizar en un lateral de la pantalla, mientras se sigue seleccionando productos, para tener una idea de la compra y luego proceder al carrito de compras definitivo, también muy claro y funcional.
